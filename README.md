@@ -331,7 +331,7 @@ Open them in an editor and search for the string
 between this string and the '======' mark is the remote version, while
 the portion below it and above the '&lt;&lt;&lt;&lt;&lt;&lt;' string is
 your local version. Edit the file so it is correct. Then, to resolve the
-konflict in &lt;filename&gt;you 'git add &lt;filename&gt;' before you then `git commit` to save your changes.
+conflict in &lt;filename&gt;you 'git add &lt;filename&gt;' before you then `git commit` to save your changes.
 You will also want to push your change to the remote branch on, for example, a hosting service
 like GitHub.
 
